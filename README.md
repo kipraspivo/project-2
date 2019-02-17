@@ -1,2 +1,2 @@
-# poject 2
+# project-2
 Loan calculator
